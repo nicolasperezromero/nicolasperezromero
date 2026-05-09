@@ -3,7 +3,7 @@ Hi 👋 I'm a Analytical Operations and Supply Chain professional with experienc
 reporting, and process improvement across retail, healthcare, and financial services environments. Proven ability to work in fastpaced, data-driven roles, translating operational data into actionable insights while collaborating cross-functionally to improve
 performance, efficiency, and service levels. 
 
-Tools💻: Excel, SQL, Python, R
+Tools💻: Excel, SQL, Python, R, Tableau
 
 Certifications🎓: Google Data Analytics Professional Certificate 
 
