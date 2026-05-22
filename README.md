@@ -7,6 +7,8 @@ Tools💻: Excel, SQL, Python, R, Tableau
 
 Certifications🎓: Google Data Analytics Professional Certificate 
 
+
+Connect with me:
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasperezromero1/)
 [![Github](https://img.shields.io/badge/Github-black?logo=Github)](https://github.com/nicolasperezromero)
 [![Gmail](https://img.shields.io/badge/GMAIL-white?logo=gmail)](mailto:nicolasperezromero@gmail.com)
