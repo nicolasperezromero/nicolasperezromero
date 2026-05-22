@@ -1,5 +1,5 @@
 ## Who's Nicolas and what am I striving to do 
-Hi 👋 I'm a Analytical Operations and Supply Chain professional with experience in inventory management, forecasting support, KPI
+Hi I'm a Analytical Operations and Supply Chain professional with experience in inventory management, forecasting support, KPI
 reporting, and process improvement across retail, healthcare, and financial services environments. Proven ability to work in fastpaced, data-driven roles, translating operational data into actionable insights while collaborating cross-functionally to improve
 performance, efficiency, and service levels. 
 
